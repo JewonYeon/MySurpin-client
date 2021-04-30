@@ -6,7 +6,7 @@
  ![version](https://img.shields.io/badge/Version-v1.0.0-orange) ![npm](https://img.shields.io/npm/v/npm) ![node](https://img.shields.io/badge/node-v15.11.0-green)
 
 ## 🏄‍♂️ CREATE YOUR OWN BOOKMARK! 🏄‍♀️
-Myserpin is a combination of My + surfing + pin. You know MY, but you're probably wondering what Suffin means. A combination of 🏄‍♂️ and 📌 in Web surfing.
+Mysurpin is a combination of My + surfing + pin. You know MY, but you're probably wondering what Suffin means. A combination of 🏄‍♂️ and 📌 in Web surfing.
 
 There are many services and pages on the Internet. We bookmark useful sites that we like and frequently visit among them. I will use a bookmark for myself who is studying development and Elon Musk, who wants to go to Mars, will use a bookmark.
 
